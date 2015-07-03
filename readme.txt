@@ -1,5 +1,5 @@
 Git is a distributed version control system
-Git is free software.
+Git is a  free software.
 Git has a mjutable index called stage.:
 Git tracks changes.  of  file.
 Creatiing a new branch is quick.
