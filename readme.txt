@@ -3,4 +3,4 @@ Git is free software.
 Git has a mjutable index called stage.:
 Git tracks changes.  of  file.
 Creatiing a new branch is quick.
-your branch is ahead of 'origin/master' by 1 commit.
+Switch to a new branch 'feature1 and simple'
